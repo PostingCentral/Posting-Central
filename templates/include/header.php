@@ -19,15 +19,6 @@
                                 <a href="https://salva.tmbincorp.com/">Home</a>
                             </li>
                             <li>
-                                <a href="https://salva.tmbincorp.com/about-me">About</a>
-                            </li>
-                            <li>
-                                <a href="https://twitter.com/ImmanuelSalva" target="blank">Twitter</a>
-                            </li>
-                            <li>
-                                <a href="https://salva.tmbincorp.com/contact-me">Contact</a>
-                            </li>
-                            <li>
                                 <a href="https://salva.tmbincorp.com/?action=archive">Older Posts</a>
                             </li>
                         </ul>
