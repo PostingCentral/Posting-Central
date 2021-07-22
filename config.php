@@ -1,14 +1,14 @@
 <?php
 ini_set( "display_errors", true );
 date_default_timezone_set( "Asia/Jakarta" );
-define( "DB_DSN", "mysql:host=localhost;dbname=tmbincor_salblog" );
-define( "DB_USERNAME", "tmbincor" );
-define( "DB_PASSWORD", "P33p33p00p00!" );
+define( "DB_DSN", "mysql:host=localhost;dbname=<!---DATABASE_NAME--->" );
+define( "DB_USERNAME", "" );
+define( "DB_PASSWORD", "" );
 define( "CLASS_PATH", "classes" );
 define( "TEMPLATE_PATH", "templates" );
 define( "HOMEPAGE_NUM_ARTICLES", 30 );
-define( "ADMIN_USERNAME", "salva" );
-define( "ADMIN_PASSWORD", "P33p33p00p00!" );
+define( "ADMIN_USERNAME", "admin" );
+define( "ADMIN_PASSWORD", "pass" );
 define( "ARTICLE_IMAGE_PATH", "images/articles" );
 define( "IMG_TYPE_FULLSIZE", "fullsize" );
 define( "IMG_TYPE_THUMB", "thumb" );
